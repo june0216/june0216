@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<!--
+
 **june0216/june0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=JIYUN's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
