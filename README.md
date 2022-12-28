@@ -2,13 +2,13 @@
 
 <!--**june0216/june0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fffacd&height=180&section=header&text=JIYUN's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:fffacd&height=180&section=header&text=JIYUN's%20Github%20Page&fontSize=50&fontColor=778899&fontAlignY=38&animation=twinkling)
 
 ## 🏻‍💻 Github Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=june0216&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=778899&bg_color=fffacd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=june0216&show_icons=true&count_private=true&icon_color=778899&title_color=778899&text_color=778899&bg_color=fffacd" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=june0216&layout=compact&icon_color=ffffff&title_color=778899&text_color=778899&bg_color=fffacd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=june0216&layout=compact&icon_color=778899&title_color=778899&text_color=778899&bg_color=fffacd" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjune0216&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
