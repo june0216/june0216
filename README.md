@@ -24,6 +24,8 @@
 
 (2022.03 ~ 2022.12)     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 2기 Backend 인턴
 
+(2023.01 ~        )     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend장
+
 <br/>
 
 ## 📌  Projects
