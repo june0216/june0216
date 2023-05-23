@@ -26,6 +26,8 @@
 
 (2023.01 ~        )     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend장
 
+(2023.03 ~        )     SKT DEVOCEAN YOUNG 2기
+
 <br/>
 
 ## 📌  Projects
