@@ -16,11 +16,11 @@
 
 ## 📋  Activities
 
-(2023.03 ~        )     SKT DEVOCEAN YOUNG 2기
+(2023.03 ~ 2023.11)     SKT DEVOCEAN YOUNG 2기
 
-(2023.01 ~        )     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend장
+(2023.01 ~ 2023.12)     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend장
 
-(2022.03 ~ 2022.12)     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 2기 Backend 인턴
+(2022.03 ~ 2022.12)     이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 2기 Backend
 
 (2021.06 ~ 2022.02)     이화여자대학교 사이버보안전공 OneStop 튜터링 웹개발 튜티
 
