@@ -37,7 +37,7 @@
 
 (2023.05 ~ 2023.11 )    🌱 [Green-Dev 환경 캠페인 참여 인증 서비스](https://github.com/devocean-green-dev/GreenDev_BE)
 
-(2023.07 ~ 2023.10 )    🛫 [Kuddy 외국인 관광객을 위한 한국인 관광 메이트 매칭 서비스](https://github.com/KUDDY-2023/KUDDY-back)
+(2023.07 ~ 2023.11 )    🛫 [Kuddy 외국인 관광객을 위한 한국인 관광 메이트 매칭 서비스](https://github.com/KUDDY-2023/KUDDY-back)
 
 (2022.12 ~ 2023.06 )    ✒️ [ONEZERO-MATE 데일리 감정 분석 및 음식 음악 추천 서비스](https://github.com/june0216/ONEZEROMATE-BE)
 
