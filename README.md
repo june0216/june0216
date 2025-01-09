@@ -58,7 +58,7 @@
 2023.11.14        2023 관광데이터 활용 공모전 ( 우수상 )
 
 
-## 📖 Certificate
+## 📖 Certification 
 
 2021.10.1          SQLD
 
