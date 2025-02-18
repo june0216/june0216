@@ -71,9 +71,12 @@
 
 ## 🏆  Awards
 
-(2022.12.07)        Ewha Engineering Capstone Design Contest ( SW 창업부문 - 장려상 )
+(2024.02.18)        SKT 에이닷 공모전 ( 대상 )
 
 (2023.11.14)        2023 관광데이터 활용 공모전 ( 우수상 )
+
+(2022.12.07)        Ewha Engineering Capstone Design Contest ( SW 창업부문 - 장려상 )
+
 
 <br>
 
