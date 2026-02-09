@@ -89,5 +89,7 @@
 
 (2024.09.10)         정보처리기사
 
+(2025.10.21)         AWS Certified Solutions Architect - Professional
+
 
 <br/>
